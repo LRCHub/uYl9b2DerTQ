@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "BILLIONAIRE",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-03-26T16:08:20.705988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BILLIONAIRE BOYS CLUB",
+      "artist": "Ghalel",
+      "has_synced": false,
+      "path": "select/01_BILLIONAIRE_BOYS_CLUB_Ghalel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Peaches",
+      "has_synced": true,
+      "path": "select/02_Billionaire_Peaches.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Rick Ross",
+      "has_synced": false,
+      "path": "select/03_Billionaire_Rick_Ross.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/04_Billionaire_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Billionaire (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/05_Billionaire_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Billionaire - Feat. Bruno Mars",
+      "artist": "Travie McCoy",
+      "has_synced": true,
+      "path": "select/06_Billionaire_-_Feat._Bruno_Mars_Travie_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Billionaire (feat. Bruno Mars)",
+      "artist": "Travie McCoy",
+      "has_synced": true,
+      "path": "select/07_Billionaire_(feat._Bruno_Mars)_Travie_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "City Wolf",
+      "has_synced": true,
+      "path": "select/08_Billionaire_City_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Travie McCoy feat. Bruno Mars",
+      "has_synced": true,
+      "path": "select/09_Billionaire_Travie_McCoy_feat._Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/10_Billionaire_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Billionaire (Feat. Bruno Mars) [Explicit Album Version]",
+      "artist": "Travie McCoy",
+      "has_synced": true,
+      "path": "select/11_Billionaire_(Feat._Bruno_Mars)_[Explicit_Album_Version]_Travie_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Travie McCoy featuring Bruno Mars",
+      "has_synced": true,
+      "path": "select/12_Billionaire_Travie_McCoy_featuring_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Billionaire (feat. Bruno Mars)",
+      "artist": "Travie McCoy",
+      "has_synced": true,
+      "path": "select/13_Billionaire_(feat._Bruno_Mars)_Travie_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Travie McCoy (ft. Bruno Mars)",
+      "has_synced": true,
+      "path": "select/14_Billionaire_Travie_McCoy_(ft._Bruno_Mars).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Billionaire (feat. Bruno Mars)",
+      "artist": "Travie McCoy; Bruno Mars",
+      "has_synced": true,
+      "path": "select/15_Billionaire_(feat._Bruno_Mars)_Travie_McCoy;_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Billionaire (Feat. Bruno Mars)",
+      "artist": "Travie McCoy",
+      "has_synced": true,
+      "path": "select/16_Billionaire_(Feat._Bruno_Mars)_Travie_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Billionaire",
+      "artist": "Megan Nicole",
+      "has_synced": true,
+      "path": "select/17_Billionaire_Megan_Nicole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BILLIONAIRE",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_BILLIONAIRE_BABYMONSTER.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "BILLIONAIRE",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/localdb_01_BILLIONAIRE_BABYMONSTER.txt",
+      "repo_name": "Gz_yRl6703c"
+    }
+  ]
+}
